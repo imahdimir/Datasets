@@ -1,9 +1,1 @@
-[imahdimir/d-uniq-BaseTickers](https://github.com/imahdimir/d-uniq-BaseTickers) : >Unique **Base Tickers** ever listed on [TSETMC.com](http://www.tsetmc.com)
-[imahdimir/d-uniq-TSETMC_ID](https://github.com/imahdimir/d-uniq-TSETMC_ID) : >All **TSETMC IDs** ever listed.
-[imahdimir/d-TSE-Working-Days](https://github.com/imahdimir/d-TSE-Working-Days) : TSE Working Days
-[imahdimir/d-TSE-Overall-Index](https://github.com/imahdimir/d-TSE-Overall-Index) : TSE Overall Index (TEDPIX)
-[imahdimir/d-IPO-Date](https://github.com/imahdimir/d-IPO-Date) : Base Tickers' IPO JDate
-[imahdimir/d-Ticker-2-BaseTicker-map](https://github.com/imahdimir/d-Ticker-2-BaseTicker-map) : Tickers to BaseTickers map
-[imahdimir/d-uniq-Final-Markets](https://github.com/imahdimir/d-uniq-Final-Markets) : Final Markets Keys
-[imahdimir/d-MarketTitle-2-MarketId](https://github.com/imahdimir/d-MarketTitle-2-MarketId) : Market Title to Market Ids map
-[imahdimir/d-All-Codal-Letters](https://github.com/imahdimir/d-All-Codal-Letters) : >All **letters** ever posted on [Codal.ir](https://www.codal.ir)
+[imahdimir/d-uniq-BaseTickers](https://github.com/imahdimir/d-uniq-BaseTickers) : >Unique **Base Tickers** ever listed on [TSETMC.com](http://www.tsetmc.com)\n\n[imahdimir/d-uniq-TSETMC_ID](https://github.com/imahdimir/d-uniq-TSETMC_ID) : >All **TSETMC IDs** ever listed.\n\n[imahdimir/d-TSE-Working-Days](https://github.com/imahdimir/d-TSE-Working-Days) : TSE Working Days\n\n[imahdimir/d-TSE-Overall-Index](https://github.com/imahdimir/d-TSE-Overall-Index) : TSE Overall Index (TEDPIX)\n\n[imahdimir/d-IPO-Date](https://github.com/imahdimir/d-IPO-Date) : Base Tickers' IPO JDate\n\n[imahdimir/d-Ticker-2-BaseTicker-map](https://github.com/imahdimir/d-Ticker-2-BaseTicker-map) : Tickers to BaseTickers map\n\n[imahdimir/d-uniq-Final-Markets](https://github.com/imahdimir/d-uniq-Final-Markets) : Final Markets Keys\n\n[imahdimir/d-MarketTitle-2-MarketId](https://github.com/imahdimir/d-MarketTitle-2-MarketId) : Market Title to Market Ids map\n\n[imahdimir/d-All-Codal-Letters](https://github.com/imahdimir/d-All-Codal-Letters) : >All **letters** ever posted on [Codal.ir](https://www.codal.ir)\n\n
