@@ -1,4 +1,4 @@
-| DataSet | Description |
+| DataSet | Short Description |
 | --- | --- |
 | [uniq-BaseTickers](https://github.com/imahdimir/d-uniq-BaseTickers) | Unique **Base Tickers** ever listed on [TSETMC.com](http://www.tsetmc.com) |
 | [uniq-TSETMC_ID](https://github.com/imahdimir/d-uniq-TSETMC_ID) | All **TSETMC IDs** ever listed. |
