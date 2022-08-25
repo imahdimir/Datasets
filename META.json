@@ -1,11 +1,1 @@
-{
-    "https://raw.github.com/imahdimir/d-uniq-BaseTickers/main/META.json": ">Unique **Base Tickers** ever listed on [TSETMC.com](http://www.tsetmc.com)",
-    "https://raw.github.com/imahdimir/d-uniq-TSETMC_ID/main/META.json": null,
-    "https://raw.github.com/imahdimir/d-TSE-Working-Days/main/META.json": "TSE Working Days",
-    "https://raw.github.com/imahdimir/d-TSE-Overall-Index/main/META.json": "TSE Overall Index (TEDPIX)",
-    "https://raw.github.com/imahdimir/d-IPO-Date/main/META.json": "Base Tickers' IPO JDate",
-    "https://raw.github.com/imahdimir/d-Ticker-2-BaseTicker-map/main/META.json": "Tickers to BaseTickers map",
-    "https://raw.github.com/imahdimir/d-uniq-Final-Markets/main/META.json": "Final Markets Keys",
-    "https://raw.github.com/imahdimir/d-MarketTitle-2-MarketId/main/META.json": "Market Title to Market Ids map",
-    "https://raw.github.com/imahdimir/d-All-Codal-Letters/main/META.json": "All letters posted on Coda.ir"
-}
+{"https://raw.github.com/imahdimir/d-uniq-BaseTickers/main/META.json": ">Unique **Base Tickers** ever listed on [TSETMC.com](http://www.tsetmc.com)", "https://raw.github.com/imahdimir/d-uniq-TSETMC_ID/main/META.json": ">All **TSETMC IDs** ever listed.", "https://raw.github.com/imahdimir/d-TSE-Working-Days/main/META.json": "TSE Working Days", "https://raw.github.com/imahdimir/d-TSE-Overall-Index/main/META.json": "TSE Overall Index (TEDPIX)", "https://raw.github.com/imahdimir/d-IPO-Date/main/META.json": "Base Tickers' IPO JDate", "https://raw.github.com/imahdimir/d-Ticker-2-BaseTicker-map/main/META.json": "Tickers to BaseTickers map", "https://raw.github.com/imahdimir/d-uniq-Final-Markets/main/META.json": "Final Markets Keys", "https://raw.github.com/imahdimir/d-MarketTitle-2-MarketId/main/META.json": "Market Title to Market Ids map", "https://raw.github.com/imahdimir/d-All-Codal-Letters/main/META.json": ">All **letters** ever posted on [Codal.ir](https://www.codal.ir)"}
