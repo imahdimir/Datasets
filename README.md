@@ -15,5 +15,5 @@
 | 12 | [Ticker-2-BaseTicker](https://github.com/imahdimir/d-Ticker-2-BaseTicker)                                 | Tickers to BaseTickers map                                                 |
 | 13 | [firm-IPO-date](https://github.com/imahdimir/d-firm-IPO-date)                                             | Base Tickers' IPO JDate                                                    |
 | 14 | [firms-adjusted-Prices-1-OHLCL-daily](https://github.com/imahdimir/d-firms-adjusted-Prices-1-OHLCL-daily) |                                                                            |
-| 15 | [is-firm-all-day-closed](https://github.com/imahdimir/d-is-firm-all-day-closed)                           |                                                                            |
-| 16 | [TSETMC_ID-possible-trade-spells](https://github.com/imahdimir/d-TSETMC_ID-possible-trade-spells)         |                                                                            |
+| 15 | [firm-possible-trade-spells](https://github.com/imahdimir/d-firm-possible-trade-spells)                   |                                                                            |
+| 16 | [firm-open-duration-daily](https://github.com/imahdimir/d-firm-open-duration-daily)                       |                                                                            |
