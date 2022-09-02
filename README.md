@@ -9,9 +9,11 @@
 |  6 | [BaseTicker](https://github.com/imahdimir/d-BaseTicker)                                                   | Unique **Base Tickers** ever listed on [TSETMC.com](http://www.tsetmc.com) |
 |  7 | [all-Codal-letters](https://github.com/imahdimir/d-all-Codal-letters)                                     | All **letters** ever posted on [Codal.ir](https://www.codal.ir)            |
 |  8 | [CodalTicker-2-FirmTicker](https://github.com/imahdimir/d-CodalTicker-2-FirmTicker)                       | **Codal Tickers** to **Base Tickers** Map                                  |
-|  9 | [status-changes](https://github.com/imahdimir/d-status-changes)                                           | Status changes of each TSETMC_ID on TESTMC.com                             |
+|  9 | [firm-status-change](https://github.com/imahdimir/d-firm-status-change)                                   | Status changes of each TSETMC_ID on TESTMC.com                             |
 | 10 | [TSE-Overall-Index](https://github.com/imahdimir/d-TSE-Overall-Index)                                     | TSE Overall Index (TEDPIX)                                                 |
-| 11 | [TSE-Working-Days](https://github.com/imahdimir/d-TSE-Working-Days)                                       | TSE Working Days                                                           |
+| 11 | [TSE-working-days](https://github.com/imahdimir/d-TSE-working-days)                                       | TSE Working Days                                                           |
 | 12 | [Ticker-2-BaseTicker](https://github.com/imahdimir/d-Ticker-2-BaseTicker)                                 | Tickers to BaseTickers map                                                 |
-| 13 | [IPO-Date](https://github.com/imahdimir/d-IPO-Date)                                                       | Base Tickers' IPO JDate                                                    |
+| 13 | [firm-IPO-date](https://github.com/imahdimir/d-firm-IPO-date)                                             | Base Tickers' IPO JDate                                                    |
 | 14 | [firms-adjusted-Prices-1-OHLCL-daily](https://github.com/imahdimir/d-firms-adjusted-Prices-1-OHLCL-daily) |                                                                            |
+| 15 | [is-firm-all-day-closed](https://github.com/imahdimir/d-is-firm-all-day-closed)                           |                                                                            |
+| 16 | [TSETMC_ID-possible-trade-spells](https://github.com/imahdimir/d-TSETMC_ID-possible-trade-spells)         |                                                                            |
