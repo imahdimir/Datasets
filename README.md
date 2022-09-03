@@ -1,8 +1,8 @@
 # Datasets List 
 |    | Dataset                                                                                                   | Short Description                                                          |
 |---:|:----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
-|  1 | [TSETMC_ID-2-Ticker](https://github.com/imahdimir/d-TSETMC_ID-2-Ticker)                                   | **TSETMC_ID** to **Ticker** map                                            |
-|  2 | [TSETMC_ID-2-FirmTicker](https://github.com/imahdimir/d-TSETMC_ID-2-FirmTicker)                           | Unique Firm Tickers Listed On TSETMC                                       |
+|  1 | [TSETMC_ID-2-Ticker](https://github.com/imahdimir/d-TSETMC_ID-2-Ticker)                                   | **TSETMC ID** to **Ticker** map                                            |
+|  2 | [TSETMC_ID-2-FirmTicker](https://github.com/imahdimir/d-TSETMC_ID-2-FirmTicker)                           | ***Unique*** **Firm Tickers** Listed On TSETMC                             |
 |  3 | [multi-BaseTickers-2-same-FirmTicker](https://github.com/imahdimir/d-multi-BaseTickers-2-same-FirmTicker) |                                                                            |
 |  4 | [MarketTitle-2-MarketID](https://github.com/imahdimir/d-MarketTitle-2-MarketID)                           | Market Title to Market Ids map                                             |
 |  5 | [MarketID](https://github.com/imahdimir/d-MarketID)                                                       | Final Markets Keys                                                         |
