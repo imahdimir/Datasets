@@ -17,3 +17,4 @@
 | 14 | [firms-adjusted-Prices-1-OHLCL-daily](https://github.com/imahdimir/d-firms-adjusted-Prices-1-OHLCL-daily) |                                                                            |
 | 15 | [firm-possible-trade-spells](https://github.com/imahdimir/d-firm-possible-trade-spells)                   |                                                                            |
 | 16 | [firm-open-duration-daily](https://github.com/imahdimir/d-firm-open-duration-daily)                       |                                                                            |
+| 17 | [tse_ir-industry-subIndustry](https://github.com/imahdimir/d-tse_ir-industry-subIndustry)                 |                                                                            |
